@@ -12,12 +12,6 @@ The SPDX-Git-Scanner is aimed at processing branches from Git into SPDX document
 
 #Installation
 1. Download and run install.sh
-
-    `wget https://raw.githubusercontent.com/SPDX-Git/SPDX-Git-Scanner/master/install.sh`
-
-   `chmod +x install.sh`
-   
-   `./install.sh`
 2. Configure Git config in SPDX-Git-Scanner/src/config.txt
 
 #Usage
@@ -26,7 +20,7 @@ The SPDX-Git-Scanner is aimed at processing branches from Git into SPDX document
 #License
 Source Code: Apache 2.0
 
-Documentation: Creative Commons 4.0
+Documentation: Creative Commons 4.0 - Attribution-ShareAlike 4.0 International.
 
 #Copyright
 Copyright © 2015 Daniel Patten, Zachary Meyer, and Jacob Vosik
